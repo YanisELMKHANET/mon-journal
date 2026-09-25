@@ -1,0 +1,19 @@
+#p1{
+ color: rgb(0,0,255);
+ front-size: 18px;
+ font-family:arial;
+}
+
+#th1{
+ color:red;
+ front-size: 18px;
+ font-style:italic;
+}
+
+div{
+ width:2000px;
+ height:25px;
+ border:2px;
+ padding:0px;
+ margin:50px;
+}
